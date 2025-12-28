@@ -47,5 +47,5 @@ This project is created as part of my web development learning journey.
 │
 ├── images/
 │ └── (all product & logo images)
-## 📁 Folder Structure
+
 
