@@ -30,6 +30,7 @@ This project is created as part of my web development learning journey.
 - Simple and clean UI  
 
 ---
+## Folder Structure
 │
 ├── index.html
 ├── aboutus.html
